@@ -68,7 +68,7 @@
 </div>
 <br />
 <hr>
-<h2 align="center">🏗️ Projects & Labs</h2>
+<h2 align="center">🏗️ Projects </h2>
 <table width="100%">
   <thead>
     <tr>
