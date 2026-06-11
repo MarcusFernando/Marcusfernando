@@ -3,7 +3,7 @@
     <img src="https://img.shields.io/badge/%F0%9F%87%BA%F0%9F%87%B8-English-005696?style=flat-square&logoColor=white" alt="English"/>
   </a>
   <a href="README.pt-br.md" title="Português">
-    <img src="https://img.shields.io/badge/%F0%9F%87%A7%F0%9F%87%B7-Multilayer-43853d?style=flat-square&logoColor=white" alt="Português"/>
+    <img src="https://img.shields.io/badge/%F0%9F%87%A7%F0%9F%87%B7-Portugu%C3%AAs-43853d?style=flat-square&logoColor=white" alt="Português"/>
   </a>
 </div>
 <div align="center">
@@ -33,7 +33,7 @@
 <hr>
 <h3 align="center">🔭 Focus & Learning</h3>
 <ul align="left">
-  <li>🔭 I’m currently working on <b>Enterprise AI Agents & Orchestration Workflows</b></li>
+  <li>🔭 I’m currently working on <b>a multi-agent coordination kit and a personal AI ecosystem — RAG over an Obsidian vault, MCP tools and autonomous agents</b></li>
   <li>🌱 I’m currently learning <b>Advanced RAG Patterns & Vector Database Optimizations</b></li>
   <li>💬 Ask me about <b>System Architecture, Prompt Engineering, and Context Management</b></li>
   <li>⚡ Fun fact: <b>I see code as music; it's all about rhythm, flow, and orchestration.</b></li>
@@ -68,7 +68,46 @@
 </div>
 <br />
 <hr>
-<h2 align="center">🏗️ Projects & Labs</h2>
+<h2 align="center">🚀 Featured Repositories</h2>
+<table width="100%">
+  <thead>
+    <tr>
+      <th>Repository</th>
+      <th>Area</th>
+      <th>Stack & Highlights</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Internal procurement system</b> <i>(private)</i></td>
+      <td><i>AI / Orchestration</i></td>
+      <td>Internal public-procurement system for a healthcare distributor.</td>
+    </tr>
+    <tr>
+      <td><b>Agent Kit</b> <i>(private)</i></td>
+      <td><i>Multi-Agent Engineering</i></td>
+      <td><b>Claude Code, Antigravity, MCP</b>. 37 portable skills, 20 agent personas and a coordination protocol (task board, append-only ADRs, handoffs) so multiple AI agents can share one repo without conflicts.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/MarcusFernando/bone-age-prediction"><b>bone-age-prediction</b></a></td>
+      <td><i>Deep Learning / CV</i></td>
+      <td><b>Python, Jupyter</b>. Bone age estimation from hand X-ray images.</td>
+    </tr>
+    <tr>
+      <td><b>Institutional website</b> <i>(private)</i></td>
+      <td><i>Web</i></td>
+      <td><b>React, Vite, TypeScript, Tailwind, shadcn/ui</b>. Institutional website for a healthcare distributor.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/MarcusFernando/mega-virada-api"><b>mega-virada-api</b></a></td>
+      <td><i>API</i></td>
+      <td><b>Python</b>. REST API experiments around Brazil's Mega da Virada lottery data.</td>
+    </tr>
+  </tbody>
+</table>
+<br />
+<hr>
+<h2 align="center">🧪 Labs & Concepts</h2>
 <table width="100%">
   <thead>
     <tr>
