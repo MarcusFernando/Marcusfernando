@@ -25,8 +25,8 @@
   <a href="https://instagram.com/marcus.fernando_">
     <img src="https://img.shields.io/badge/-@marcus.fernando__-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://marcusfernando.netlify.app">
-    <img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" />
+  <a href="https://marcusfernando.github.io/portfolio/">
+    <img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=githubpages&logoColor=white" alt="Portfolio" />
   </a>
 </div>
 <br />
