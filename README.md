@@ -94,6 +94,11 @@
       <td><b>Python, Jupyter</b>. Bone age estimation from hand X-ray images.</td>
     </tr>
     <tr>
+      <td><a href="https://github.com/RefactoresLabs/backend-lostfinder"><b>FindIt</b></a> <i>(team project)</i></td>
+      <td><i>Backend / API</i></td>
+      <td><b>Python, Flask, SQLAlchemy, PostgreSQL, JWT</b>. University lost &amp; found, built by a student team with a layered architecture. My part: JWT login, lost/found item flows and university building geolocation via OpenStreetMap, with unit tests.</td>
+    </tr>
+    <tr>
       <td><b>Institutional website</b> <i>(private)</i></td>
       <td><i>Web</i></td>
       <td><b>React, Vite, TypeScript, Tailwind, shadcn/ui</b>. Institutional website for a healthcare distributor.</td>
