@@ -102,6 +102,13 @@
 </table>
 <br />
 <hr>
+<details>
+  <summary>Projetos acadêmicos em grupo (UNDB, 2023)</summary>
+  <br />
+  <a href="https://github.com/LucasGPestana/django-covid"><b>django-covid</b></a>: dashboard em Django com gráficos de COVID-19 no Brasil (2020–2021). Trabalho de Programação Orientada a Objetos, feito por um time de 9 alunos. O repositório está na conta de um colega.
+</details>
+<br />
+<hr>
 <h2 align="center">📊 Análises do GitHub</h2>
 <div align="center">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MarcusFernando&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&locale=pt-br" alt="Estatísticas do GitHub de MarcusFernando" />
